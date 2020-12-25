@@ -94,7 +94,7 @@ namespace Exercise2_054_MuhammadFerdyYosa
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            AmbilData();
         }
 
         private void button1_Click(object sender, EventArgs e)
